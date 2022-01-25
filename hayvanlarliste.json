@@ -1,1 +1,33 @@
-
+[
+  {
+    "id": 1,
+    "turu": "Ankara Kedisi",
+    "koken": "Türkiye"
+  },
+  {
+    "id": 2,
+    "turu": "Siyam Kedisi",
+    "koken": "Tayland"
+  },
+  {
+    "id": 3,
+    "turu": "Çov Çov",
+    "koken": "Çin"
+  },
+  {
+    "id": 4,
+    "turu": "Doberman",
+    "koken": "Almanya"
+  },
+  {
+    "id": 5,
+    "turu": "Sultan Papağanı",
+    "koken": "Avustralya"
+  },
+  {
+    "id": 6,
+    "turu": "Akşam kocabaşı",
+    "koken": "Kuzey Amerika"
+  }
+  
+]
