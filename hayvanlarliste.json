@@ -2,7 +2,11 @@
   {
     "id": 1,
     "turu": "Ankara Kedisi",
-    "koken": "Türkiye"
+    "koken": "Türkiye",
+    "baslik": "ankakadesi",
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angora-kedisi.jpg",
+   
+    
   },
   {
     "id": 2,
