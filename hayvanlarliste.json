@@ -6,12 +6,12 @@
     "baslik": "ankakadesi",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angora-kedisi.jpg"
    
-    
   },
   {
     "id": 2,
     "turu": "Siyam Kedisi",
-    "koken": "Tayland"
+    "koken": "Tayland",
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyam-kedisi.jpg"
   },
   {
     "id": 3,
