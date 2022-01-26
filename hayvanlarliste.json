@@ -4,38 +4,45 @@
     "turu": "Ankara Kedisi",
     "koken": "Türkiye",
     "baslik": "ankakadesi",
-    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angora-kedisi.jpg"
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angora-kedisi.jpg",
+    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angorakedisidetay.jpg"
    
   },
   {
     "id": 2,
     "turu": "Siyam Kedisi",
     "koken": "Tayland",
-    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyam-kedisi.jpg"
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyam-kedisi.jpg",
+    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyamkedisidetay.jpg"
   },
   {
     "id": 3,
     "turu": "Çov Çov",
     "koken": "Çin",
-    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/chowchow.jpg"
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/chowchow.jpg",
+    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/chowchowdetay.jpg"
+    
   },
   {
     "id": 4,
     "turu": "Doberman",
     "koken": "Almanya",
-    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/doberman.jpg"
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/doberman.jpg",
+    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/dobermandetay.jpg"
   },
   {
     "id": 5,
     "turu": "Sultan Papağanı",
     "koken": "Avustralya",
-    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/sultan-papagan%C4%B1.jpg"
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/sultanpapagani.jpg",
+    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/sultanpapaganidetay.png"
   },
   {
     "id": 6,
     "turu": "Akşam kocabaşı",
     "koken": "Kuzey Amerika",
-    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/aksamkocabasi.jpg"
+    "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/aksamkocabasi.jpg",
+    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/aksamkocabasidetay.jpg"
   }
   
 ]
