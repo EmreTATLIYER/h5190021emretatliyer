@@ -3,9 +3,9 @@
     "id": 1,
     "turu": "Ankara Kedisi",
     "koken": "Türkiye",
-    "baslik": "ankakadesi",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angora-kedisi.jpg",
-    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angorakedisidetay.jpg"
+    "bilgiKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/angorakedisidetay.jpg",
+    "bilgi": "Ankara kedisi, dünyaca tanınan bir kedi ırkı. Ana yurdu Ankara olan Ankara kedisi, en eski uzun tüylü kedi soylarından birisidir.İlk kez 17'nci yüzyılda denizciler tarafından Avrupa'ya da götürülen Ankara kedisi 18'inci yüzyılda Avrupa soylularının sevgilisi hâline gelmiştir. Eski zamanlarda Fransız krallarının saraylarında dâhil her yerde mevcuttu. Diğer uzun tüylü bir kedi soyu olan Fars kedisinin ortaya çıkması ile Ankara kedisinin yıldızı solmaya başlamıştır. Ancak 1950'li yıllarda Amerikalı kedi yetiştiricileri tarafından tekrar bir Ankara kedisi çifti Anadolu'dan götürülerek yetiştirilmesi sonrasında tekrar sevilen bir ev kedisi olarak popülerliğine kavuşmuştur."
    
   },
   {
@@ -13,14 +13,16 @@
     "turu": "Siyam Kedisi",
     "koken": "Tayland",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyam-kedisi.jpg",
-    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyamkedisidetay.jpg"
+    "bilgiKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/siyamkedisidetay.jpg",
+    "bilgi": "Siyam kedisi, Güneydoğu Asya'da resmî adıyla Tayland olarak bilinen Siyam'da kutsal tapınaklarda beslenen ve buradan tüm dünyaya yayılan kedi ırkı. Siyam kedisi Güneydoğu Asya'da görülen bir cins kedi olduğu için ismini Siyam’dan alır. Tayland dilindeki adı Wichien Maat'tır.Siyam kedileri kulakları, patileri, arka ayakları ve kuyrukları renkli noktaları olan açık renkli bir kürke sahiptir. Yavru siyamlar doğuşta krem veya beyaz renkte olurlar ve ilk aylarda vücutlarının çeşitli bölgelerinde görünür hale gelen noktalar gelişir. Dört haftalık olunca bu noktaların renkleri daha belirgin hale gelirler. Yaşı ilerledikçe siyam kedilerin renkleri koyulaşır ancak sıcak iklimlerde yaşayan yetişkin siyam kedileri soğuk iklimlerde yaşayanlardan daha açık bir kürke sahiptirler.Siyam kedileri tamamen saf ve doğal bir kedi ırkıdır.Köklü ırkları sayesinde birçok yeni ırk ve cinsin doğmasına yol açmıştır. Bunlardan bazıları ; Himalaya , Oriental ,Tonkinese , Balinese ve Havana kedileridir."
   },
   {
     "id": 3,
     "turu": "Çov Çov",
     "koken": "Çin",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/chowchow.jpg",
-    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/chowchowdetay.jpg"
+    "bilgiKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/chowchowdetay.jpg",
+    "bilgi": "Çov-çov, Çin kökenli köpek ırkı. Halk arasında 'Aslan köpeği' ve 'Çin Aslanı' olarak da bilinir.Mükemmel bir aile köpeği olabilir. Genellikle uslu bir köpektir ama hırçınlaşabilir. İnatçı denebilecek kadar kararlı olabilir . Özgürlüğüne çok düşkündür ama birlikte yaşadığı insanlara çok bağlanır. Çocuklarla arası çok iyidir. Başka köpeklere üstünlük kurmak ister. Yavruyken tanıdığı diğer hayvanlarla iyi geçinir. Bekçilik ve koruma görevlerini başarıyla yerine getirir. Düzenli olarak gezdirilmezse tembelleşir."
     
   },
   {
@@ -28,21 +30,24 @@
     "turu": "Doberman",
     "koken": "Almanya",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/doberman.jpg",
-    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/dobermandetay.jpg"
+    "bilgiKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/dobermandetay.jpg",
+    "bilgi": "Doberman, Almanya kökenli bir iş köpeği ırkıdır.Irkın adı 1890'da, bu ırkı üreten, Almanya'nın Apolda şehrinde yaşayan Alman vergi memuru Karl Friedrich Louis Dobermann'dan (2 Ocak 1834 - 9 Haziran 1894) gelir. Bu dönemlerde vergi toplamanın zorluğunun farkında olan Dobermann, vergi toplarken kendisine zorluk çıkaranlara karşı kendisini korumak ve kişileri de korkutmak amacıyla bir köpek arayışına girmesi sonucu üretmiştir. Üreticisinin adını taşıyan tek köpek ırkıdır. 'Gerhilde v. Thüringen ve Graf Belling v. Grönland' 1898 yılında resmî kayıtlara Dobermann olarak giren ilk köpeklerdir. Doberman ırkının üretiminde Alman Çoban Köpeği, Danua ve Alman Pinscher, Rottweiler, Beauceron, Manchester Terrier ve Greyhound ırklarının rol oynadığı düşünülmektedir. 1899 yılında günümüzde Dobermann Verein DV olarak bilinen ilk doberman üretim kulübü kuruldu.Çok iyi bir bekçi ve koruma köpeği olduğu için dünyanın her yanında evlerde beslenmektedir. II. Dünya Savaşı sırasında pusu bulma köpeği olarak kullanılmıştır."
   },
   {
     "id": 5,
     "turu": "Sultan Papağanı",
     "koken": "Avustralya",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/sultanpapagani.jpg",
-    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/sultanpapaganidetay.png"
+    "bilgiKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/sultanpapaganidetay.png",
+    "bilgi": "Sultan papağanı (Latince: Nymphicus hollandicus), kakadugiller (Cacatuidae) familyasından sarı beyaz ve gri renklere sahip bir kakadu türü.Ana besinlerini darı, çekirdek, kuru incir içi,havuç, armut sapı, kiraz sapı v.b besinlerini oluşturur. Erkeklerin taklit yeteneği vardır. Çekirdek ve dal darı gibi yiyecekler vererek insanlara alıştırılabilirler. Kalabalığı severler, kafeste kapalı kalmaktan hiç hoşlanmazlar, erkeklerin çeneleri çok kuvvetlidir. Ortalama yaşam süresi 15-25 yıldır. Sıcak iklim türü olduğu için 15 derecenin altında iyi hissetmezler."
   },
   {
     "id": 6,
     "turu": "Akşam kocabaşı",
     "koken": "Kuzey Amerika",
     "resimURL": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/aksamkocabasi.jpg",
-    "detayKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/aksamkocabasidetay.jpg"
+    "bilgiKapak": "https://raw.githubusercontent.com/EmreTATLIYER/h5190021emretatliyer/main/aksamkocabasidetay.jpg",
+    "bilgi": "Akşam kocabaşı (Coccothraustes vespertinus), ispinozgiller (Fringillidae) familyasından Kuzey Amerika'ya özgü bir kocabaş türü. Geçmişte Hesperiphona vespertina olarak adlandırılmış ve daha sonra bu kuşun bir kocabaş türü olduğu anlaşılmıştır. Uzunluğu 18.5 santimetredir. Erişkinin, kısa siyah bir kuyruk, siyah kanat ve büyük soluk bir gagası vardır. Erişkin erkeğin, parlak sarı bir alın ve vücudu vardır. Başı, kahverengidir ve kanatta büyük beyaz bir yama görülür. Erişkin dişi çoğunlukla zeytuni-kahverengi olup daha gridir ve kanatlarda beyaz yamalar azdır."
   }
   
 ]
